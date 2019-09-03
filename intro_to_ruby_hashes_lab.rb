@@ -21,8 +21,7 @@ def monopoly_with_third_tier
 	   {:one_piece,
 	    :two_piece,
 	    :three_piece,
-	    :four_piece
-	                 }
+	    :four_piece}
 	  },
 	}
 end
