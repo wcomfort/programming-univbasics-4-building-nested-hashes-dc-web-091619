@@ -44,7 +44,7 @@ def monopoly_with_fourth_tier
 	    :four_pieces_owned => 200
 	   },
 	   :names => {
-	     :pennsyvania_railroad => {},
+	     :pennsylvania_railroad => {},
 	     :reading_railroad => {},
 	     :b_and_o_railroad => {},
 	     :shortline_railroad => {},
