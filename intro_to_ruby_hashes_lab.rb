@@ -43,7 +43,7 @@ def monopoly_with_fourth_tier
 	     :second_railroad => "C&O"
 	     :third_railroad => "Penn"
 	     :fourth_railroad => "I forgot"
-	   }
+	   },
 	  },
 	}
 end
