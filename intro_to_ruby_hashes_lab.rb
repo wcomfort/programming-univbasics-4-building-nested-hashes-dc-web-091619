@@ -39,10 +39,10 @@ def monopoly_with_fourth_tier
 	    :four_pieces_owned => 100
 	   },
 	   :names => {
-	     :first_railroad => "Reading",
-	     :second_railroad => "C&O"
-	     :third_railroad => "Penn"
-	     :fourth_railroad => "I forgot"
+	     :first_railroad => {},
+	     :second_railroad => {},
+	     :third_railroad => {},
+	     :fourth_railroad => {},
 	   },
 	  },
 	}
